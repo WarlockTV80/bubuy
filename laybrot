@@ -21,23 +21,27 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444149
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indosiar
 ##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Bri.m3u8
-https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
+##https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/indosiarTV.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/indosiar.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png",SCTV
 ##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli4.m3u8
-https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/sctvTV.m3u8
+##https://raw.githubusercontent.com/B-inal-123/konoha-s/inal-22/sctvTV.m3u8
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/sctv.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/TV%20Nasional/sctv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Moji
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
+##https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/moji.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/trans7.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",TransTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444143
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/transtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_MDTV_2025_03_17_14_56_36.png",MDTV
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444148
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/mdtv.m3u8
 
 #EXTINF:-1 group-title="TV | Nasional Digital" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444223
@@ -479,6 +483,27 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 group-title="FILM | Indonesia" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png", Allplay EnT
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+
+============================================================================================================================================================
+// Collected by @denitv menampilkan playlist >>> HBO
+============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbo.jpg?raw=true" group-title="FILM | HBO",HBO
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbo.m3u8
+
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbohits.jpg?raw=true" group-title="FILM | HBO",HBO HITS
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbohits.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbofam.jpg?raw=true" group-title="FILM | HBO",HBO FAMILY
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbofamily.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/hbosig.jpg?raw=true" group-title="FILM | HBO",HBO SIGNATURE
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/hbosignature.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://github.com/mimipipi22/logo/blob/main/movies/cinemax.jpg?raw=true" group-title="FILM | HBO",CINEMAX
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/cinemax.m3u8
+
 
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> Movie Box Office
