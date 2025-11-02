@@ -15,7 +15,7 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=204
 
-#EXTINF:-1 group-title="VIP | Vidio TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/indosiar.jpg?raw=true", Indosiar
+#EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/indosiar.jpg?raw=true" group-title="VIP | Vidio TV", Indosiar
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://popmi.my.id/tes.m3u8?id=205
 
