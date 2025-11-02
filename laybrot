@@ -935,23 +935,29 @@ https://iptv.lancartech.co.id:443/Farhan@90/18062025/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXKymrctowp7jeAysaiGBDH.png" group-title="TV | Nasional Digital",GTV
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWqIwcT3UuSE7f-LqqGtJuL.png" group-title="TV | Nasional Digital",Indosiar 1
-http://203.77.246.58:4500/udp/239.1.1.110:5000
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWqIwcT3UuSE7f-LqqGtJuL.png" group-title="TV | Nasional Digital",Indosiar 2
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXePR6dCqI1ieFDoBWsqOE2.png" group-title="TV | Nasional Digital",SCTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/30.m3u8
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/30.m3u8
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW0k1lN1GyJ1QNR3Fx0coc4.png" group-title="TV | Nasional Digital",Moji
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.m3u8
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.m3u8
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeU_siUIkdyypeIT-wBh4-Ve.png" group-title="TV | Nasional Digital",Trans 7
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/33.m3u8
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/33.m3u8
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
 #EXTINF:-1 tvg-id="TRANS TV.id" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXCgoQUDpgywY_WHu2HE8a9.png" group-title="TV | Nasional Digital",Trans TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/34.m3u8
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/34.m3u8
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVuJK-EcQJSIx-uMsJyOiTF.png" group-title="TV | Nasional Digital",MD TV
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUTdtCVdphG_Ap_2WDQXAI4.png" group-title="TV | Nasional Digital",ANTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/1.m3u8
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/1.m3u8
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWsMqoUgffu2oUeWHwM00N2.png" group-title="TV | Nasional Digital",TV One
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/36.m3u8
+##https://iptv.lancartech.co.id:443/Farhan@90/18062025/36.m3u8
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWSKkh-UgVPkELSIcqmIQZ3IxMj4-XnLijK1OIO-9W2dg.png" group-title="TV | Nasional Digital",Mentari TV
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXwsElZxzPiYvU0iV008Kp4.png" group-title="TV | Nasional Digital",RTV
