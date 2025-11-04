@@ -4333,29 +4333,28 @@ http://190.60.37.118:4000/play/a02z
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 http://190.60.37.118:4000/play/a09j
 
-
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name=" SKY SPORTS CRICKET" tvg-logo="https://pbs.twimg.com/profile_images/1951067600294703105/JZTIEdma_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS CRICKET
-http://mains.services/live/bshorty/Zv5le07a0J/3b0dd519-a307-48f6-80c1-6f35240453ab.m3u8
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name=" SKY SPORTS F1" tvg-logo="http://145.239.7.84/logos/Sky%20Sports%20F1.png" group-title="SPORTS | Vip 1", SKY SPORTS F1
-http://mains.services/live/bshorty/Zv5le07a0J/3e89b7df-4554-42e7-bd89-8809fa966127.m3u8
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name=" SKY SPORTS FOOTBALL" tvg-logo="https://pbs.twimg.com/profile_images/1951061702671298561/LxkKGuSf_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS FOOTBALL
-http://mains.services/live/bshorty/Zv5le07a0J/607a00ed-5cf2-45f6-9e37-1e352fe4ef20.m3u8
-#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name=" SKY SPORTS GOLF" tvg-logo="https://pbs.twimg.com/profile_images/1951064391937294338/z__sgVBz_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS GOLF
-http://mains.services/live/bshorty/Zv5le07a0J/c4793abd-2409-4081-9886-f4b745600994.m3u8
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name=" SKY SPORTS MAIN EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="SPORTS | Vip 1", SKY SPORTS MAIN EVENT
-http://mains.services/live/bshorty/Zv5le07a0J/58c0e1ee-ae2e-4694-bb66-3e3eb6c57634.m3u8
-#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name=" SKY SPORTS MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="SPORTS | Vip 1", SKY SPORTS MIX
-http://mains.services/live/bshorty/Zv5le07a0J/29af5e17-0851-4b44-9781-b384dd176ea0.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name=" SKY SPORTS NEWS" tvg-logo="https://pbs.twimg.com/profile_images/1951063956711157760/lIbUluye_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS NEWS
-http://mains.services/live/bshorty/Zv5le07a0J/420189a0-f005-4062-8bb3-b9f66f7e0443.m3u8
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name=" SKY SPORTS NFL" tvg-logo="http://onlytimewilltell.xyz:2086/images/af168af5d45963061b09b1dd5b01473b.png" group-title="SPORTS | Vip 1", SKY SPORTS NFL
-http://mains.services/live/bshorty/Zv5le07a0J/3836a7e2-0560-4f51-9c9b-df74b62df338.m3u8
-#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name=" SKY SPORTS PLUS" tvg-logo="http://145.239.7.84/logos/Sky%20Sports%20Plus.jpg" group-title="SPORTS | Vip 1", SKY SPORTS PLUS
-http://mains.services/live/bshorty/Zv5le07a0J/6d60368d-91cf-44f5-9c65-52361b973b73.m3u8
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name=" SKY SPORTS PREMIER LEAGUE" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="SPORTS | Vip 1", SKY SPORTS PREMIER LEAGUE
-http://mains.services/live/bshorty/Zv5le07a0J/c303e484-7208-4695-a34e-c962db644a86.m3u8
-#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name=" SKY SPORTS RACING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Sky_sports_racing.png" group-title="SPORTS | Vip 1", SKY SPORTS RACING
-http://mains.services/live/bshorty/Zv5le07a0J/ca8ae27d-b601-4469-b926-470acb3a5d2b.m3u8
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/f786d7afd8c30473567e4e12084eaec2.png" tvg-id="SkySportsMainEvent.uk" ,SkySport MainEvent FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3995
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/bc343f811e6f979b134ed1d36338337d.png" tvg-id="SkySportsCricket.uk" ,SkySport Cricket FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/505
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/2630982e06740974ac443267ccdaa654.png" tvg-id="SkySportsAction.uk" ,SkySport Action FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/506
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/2630982e06740974ac443267ccdaa654.png" tvg-id="10TV.in" ,SkySport Prmier Legue FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3996
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/63f2daadfa73812f6a195c8e5ccf5a19.png" tvg-id="SkySportsFootball.uk" ,SkySport Fotbal FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1647
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/9f03bf449047bbdb9597c0f4b8b77c02.png" tvg-id="SkySportsGolf.uk" ,SkySport Golf FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/507
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/bcece029ed0591c7f6b64f4f6d47b28a.png" tvg-id="10TV.in" ,SkySport Arena FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1648
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/113f8442547b336dd122f84f2836476c.png" tvg-id="SkySportsMix.uk" ,SkySport Mix FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/943
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/310ec67492cb5d05c1bba3fdc8ba4c88.png" tvg-id="SkySportsF1.uk" ,SkySport F1 FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1001
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://luckonline.eu/icon/BTSport7.uk.png" tvg-id="SkySportsTennis.uk" ,SkySport Tenis
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/4956
+#EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/3e48d424842376ed163645706efa1c86.png" tvg-id="SkySportsRacing.uk" ,SkySport RACE FHD
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/794
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name=" TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="SPORTS | Vip 1", TNT SPORTS 01
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/3933
