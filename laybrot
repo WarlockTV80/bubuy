@@ -4001,16 +4001,20 @@ http://aromatv.co:80/live/Enjy3637/4JFEBAs359/215639.m3u8
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Sonyten5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="SPORTS | Vip 1",TNT Sports 1 
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt1.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt1A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="SPORTS | Vip 1",TNT Sports 2 
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt2.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt2A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="SPORTS | Vip 1",TNT Sports 3 
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt3.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt3A.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="SPORTS | Vip 1",TNT Sports 4
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt4m3u8
+https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/Tnt4A.m3u8
 
 #EXTINF:-1 tvg-ID="ziggosport.nl" tvg-name="NL ▎ZIGGO SPORT HD ʀᴀᴡ" tvg-logo="https://img.logo-cdn.cc/ziggosport.png" group-title="SPORTS | Vip 1",ZIGGO SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
