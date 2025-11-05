@@ -1697,61 +1697,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index
 #EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://mimipipi22.github.io/logo/entertainment/dramaworld.jpg" group-title="TV | Sinetron",DRAMA CHANNEL (BACKUP)
 https://slive.mana2.my/DramaChannel/index.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="TV | Sinetron", Citra
-http://51.89.166.17:3002/index.php?id=AAcitra
-http://51.89.166.17:3002/index.php?id=AAcitra1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="TV | Sinetron",Aura
-https://live.saileitv.com/channel/n1b0334ad/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Aura
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="TV | Sinetron",Rania
-https://live.saileitv.com/channel/n447cf679/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Rania
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="TV | Sinetron",Oasis
-https://live.saileitv.com/channel/n44a72a25/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Oasis
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="TV | Sinetron",Ceria
-https://live.saileitv.com/channel/n454e7688/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Ceria
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="TV | Sinetron",Ria
-https://live.saileitv.com/channel/fa54d1a/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Ria
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="TV | Sinetron",Prima
-https://live.saileitv.com/channel/n44917d75/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Prima
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://saileitv.com/
-#EXTVLCOPT:http-origin=https://saileitv.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="TV | Sinetron",Sensasi
-https://live.saileitv.com/channel/22a4fb90/index.m3u8?q=1762141397292
-http://51.89.166.17:3002/index.php?id=Sensasi
-
-
 ============================================================================================================================================================
 // Collected by @denitv menampilkan playlist >>> 06. Film Indonesia
 ============================================================================================================================================================
