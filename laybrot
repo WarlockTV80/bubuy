@@ -3983,14 +3983,18 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:B5:CA:78&stream=1459665&
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 FHD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORTS | Vip 1",SONY TEN 1 FHD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/497
+http://filex.tv:8080//live/uk007/000920/247155.ts
 #EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 FHD" tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="SPORTS | Vip 1",SONY TEN 2 FHD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/513
+http://filex.tv:8080//live/uk007/000920/247156.ts
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SONY TEN 3 FHD" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="SPORTS | Vip 1",SONY TEN 3 FHD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/518
+http://filex.tv:8080//live/uk007/000920/247157.ts
 #EXTINF:-1 tvg-id="Sony Sports Ten 4 HD.in" tvg-name="SONY TEN 4 HD" tvg-logo="https://i.imgur.com/dVRMHM4.png" group-title="SPORTS | Vip 1",SONY TEN 4 HD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/512
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="SONY TEN 5 FHD" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="SPORTS | Vip 1",SONY TEN 5 FHD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1367
+##http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1367
+http://filex.tv:8080//live/uk007/000920/247158.ts
 
 #EXTINF:-1 group-title="SPORTS | Vip 1" tvg-logo="http://www.luckonline.eu:80/images/c94fcbb1366e0e89dd6b62368edf23a0.png" tvg-id="ts246" ,STAR SPRTS SELECT 1 FHD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1125
