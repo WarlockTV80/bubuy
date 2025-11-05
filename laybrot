@@ -5,9 +5,7 @@
 // Collected by @denitv menampilkan playlist >>> Vidio TV
 ============================================================================================================================================================
 
-
 #EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg"
-
 
 #EXTINF:-1 tvg-logo="https://github.com/mimipipi22/logo/blob/main/nasional/sctv.jpg?raw=true" group-title="VIP | Vidio TV", SCTV
 ##EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
