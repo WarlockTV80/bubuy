@@ -47,8 +47,10 @@ https://smt.858.qzz.io/Smart.php?id=Astrobein1
 https://smt.858.qzz.io/Smart.php?id=Astrobein2
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name="MY | beIN Sports 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",beIN Sports 3
 https://smt.858.qzz.io/Smart.php?id=Astrobein3
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",WWE Network
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",WWE 1
 https://smt.858.qzz.io/Smart.php?id=Wwe
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",WWE 2
+https://smt.858.qzz.io/Smart.php?id=Fs
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MY | SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",SkyNet Golf
 https://smt.858.qzz.io/Smart.php?id=Agolf
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Arena
