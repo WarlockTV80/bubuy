@@ -2,6 +2,28 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 ============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> Astro Malaysia
+============================================================================================================================================================
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾", Citra
+https://smt.858.qzz.io/Smart.php?id=AAcitra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Aura
+https://smt.858.qzz.io/Smart.php?id=Aura
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Rania
+https://smt.858.qzz.io/Smart.php?id=Rania
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Oasis
+https://smt.858.qzz.io/Smart.php?id=Oasis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Ceria
+https://smt.858.qzz.io/Smart.php?id=Ceria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Ria
+https://smt.858.qzz.io/Smart.php?id=Ria-0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Prima
+https://smt.858.qzz.io/Smart.php?id=Prima-0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Sensasi
+https://smt.858.qzz.io/Smart.php?id=Sensasi
+
+
+============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> Indihome TV 
 ============================================================================================================================================================
 #EXTM3U 
