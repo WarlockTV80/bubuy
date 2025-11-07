@@ -61,10 +61,10 @@ https://smt.858.qzz.io/Smart.php?id=Arena2
 https://smt.858.qzz.io/Smart.php?id=go_spotv
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="VIP | ASTRO MALAYSIA🇲🇾",SPOTV 2
 https://smt.858.qzz.io/Smart.php?id=go_spotv2
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="" group-title="VIP | ASTRO MALAYSIA🇲🇾",NBA
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NBATV.my" tvg-name="MY | NBA TV" tvg-logo="" group-title="VIP | ASTRO MALAYSIA🇲🇾",NBA TV
 https://smt.858.qzz.io/Smart.php?id=Nba
-
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SUKAN.my" tvg-name="MY | NBA TV" tvg-logo="" group-title="VIP | ASTRO MALAYSIA🇲🇾",SUKAN TV
+https://smt.858.qzz.io/Smart.php?id=Rtmsport
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="VIP | ASTRO MALAYSIA🇲🇾", Unifi Sports
 
 
