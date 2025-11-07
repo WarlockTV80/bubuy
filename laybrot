@@ -23,12 +23,43 @@ https://smt.858.qzz.io/Smart.php?id=Prima-0
 https://smt.858.qzz.io/Smart.php?id=Sensasi
 
 
-#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="VIP | ASTRO MALAYSIA🇲🇾", BEIN SPORTS 1
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Premier League 1 
+https://smt.858.qzz.io/Smart.php?id=go_assp1x
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Premier League 2
+https://smt.858.qzz.io/Smart.php?id=go_assp2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Grandstand 
+https://smt.858.qzz.io/Smart.php?id=go_assp3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Football
+https://smt.858.qzz.io/Smart.php?id=go_assp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Sport Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Sport Plus
+https://smt.858.qzz.io/Smart.php?id=go_sportsplus
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name="MY | Astro Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Cricket
+https://smt.858.qzz.io/Smart.php?id=Acricket
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name="MY | Astro Badminton" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Badminton
+https://smt.858.qzz.io/Smart.php?id=go_badminton1
+#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO BADMINTON 2 FHD" tvg-logo="https://go4.pw/ASIA/Badminton 2.png" group-title="VIP | ASTRO MALAYSIA🇲🇾", Astro Badminton 2
+https://smt.858.qzz.io/Smart.php?id=go_badminton2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",W-Sport
+https://smt.858.qzz.io/Smart.php?id=go_assp5
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",beIN Sports 1
 https://smt.858.qzz.io/Smart.php?id=Astrobein1
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="VIP | ASTRO MALAYSIA🇲🇾", BEIN SPORTS 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2.my" tvg-name="MY | beIN Sports 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",beIN Sports 2
 https://smt.858.qzz.io/Smart.php?id=Astrobein2
-#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="VIP | ASTRO MALAYSIA🇲🇾", BEIN SPORTS 3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name="MY | beIN Sports 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",beIN Sports 3
 https://smt.858.qzz.io/Smart.php?id=Astrobein3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",WWE Network
+https://smt.858.qzz.io/Smart.php?id=Wwe
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MY | SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",SkyNet Golf
+https://smt.858.qzz.io/Smart.php?id=Agolf
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Arena
+https://smt.858.qzz.io/Smart.php?id=Arena
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Astro Arena 2
+https://smt.858.qzz.io/Smart.php?id=Arena2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",SPOTV 1
+https://smt.858.qzz.io/Smart.php?id=go_spotv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="VIP | ASTRO MALAYSIA🇲🇾",SPOTV 2
+https://smt.858.qzz.io/Smart.php?id=go_spotv2
+#EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="https://warningfm.github.io/v3/img/fEuREpo.png?v=1.0.0.1" group-title="VIP | ASTRO MALAYSIA🇲🇾", Unifi Sports
 
 
 ============================================================================================================================================================
