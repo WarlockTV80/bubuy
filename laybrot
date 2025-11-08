@@ -5696,6 +5696,36 @@ http://snaptv.lol:80/Hannibal/Hannibal123/369535
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsMix.uk.png" group-title="SPORTS | TNT & SKY",Sky Sports Mix FHD
 http://snaptv.lol:80/Hannibal/Hannibal123/369532
 
+============================================================================================================================================================
+// Collected by @DenTV menampilkan playlist >>> FIGHT SPORTS TV
++============================================================================================================================================================
+
+#EXTINF:-1 tvg-id="StreamingOnThisService.bossdummy" tvg-name="HBO Boxing" tvg-logo="https://cdn.iptvboss.pro/logos/USA/HBO.Boxing.tubi.png" group-title="SPORTS | Fight Club 🥊",HBO Boxing
+http://snaptv.lol:80/Hannibal/Hannibal123/964047
+#EXTINF:-1 tvg-id="StreamingOnThisService.bossdummy" tvg-name="UFC" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC01.art.png" group-title="SPORTS | Fight Club 🥊",UFC
+http://snaptv.lol:80/Hannibal/Hannibal123/947452
+#EXTINF:-1 tvg-id="SwerveSports.us" tvg-name="Swerve Combat" tvg-logo="https://cdn.iptvboss.pro/logos/USA/SwerveSports.us.png" group-title="SPORTS | Fight Club 🥊",Swerve Combat
+http://snaptv.lol:80/Hannibal/Hannibal123/947450
+#EXTINF:-1 tvg-id="PFL.us" tvg-name="PFL MMA" tvg-logo="https://cdn.iptvboss.pro/logos/USA/PFL.us.png" group-title="SPORTS | Fight Club 🥊",PFL MMA
+http://snaptv.lol:80/Hannibal/Hannibal123/947449
+#EXTINF:-1 tvg-id="StreamingOnThisService.bossdummy" tvg-name="Matchroom Boxing" tvg-logo="https://cdn.iptvboss.pro/logos/UK/MatchroomBoxing.uk.png" group-title="SPORTS | Fight Club 🥊",Matchroom Boxing
+http://snaptv.lol:80/Hannibal/Hannibal123/947448
+#EXTINF:-1 tvg-id="BoxingTV.us" tvg-name="Boxing TV" tvg-logo="https://cdn.iptvboss.pro/logos/USA/BoxingTV.us.png" group-title="SPORTS | Fight Club 🥊",Boxing TV
+http://snaptv.lol:80/Hannibal/Hannibal123/947447
+#EXTINF:-1 tvg-id="StreamingOnThisService.bossdummy" tvg-name="BKFC TV" tvg-logo="https://github.com/jesmannstl/tvlogos/blob/main/unknown/BKFCTV.png?raw=true" group-title="SPORTS | Fight Club 🥊",BKFC TV
+http://snaptv.lol:80/Hannibal/Hannibal123/947446
+#EXTINF:-1 tvg-id="ONEChampionshipTV.pluto" tvg-name="One Championship TV" tvg-logo="https://cdn.iptvboss.pro/logos/PlutoTV/ONEChampionshipTV.pluto.png" group-title="SPORTS | Fight Club 🥊",One Championship TV
+http://snaptv.lol:80/Hannibal/Hannibal123/947445
+#EXTINF:-1 tvg-id="UFC24_7.us" tvg-name="UFC 24/7" tvg-logo="https://cdn.iptvboss.pro/logos/USA/UFC_Boss_Pass.PNG" group-title="SPORTS | Fight Club 🥊",UFC 24/7
+http://snaptv.lol:80/Hannibal/Hannibal123/947444
+#EXTINF:-1 tvg-id="GLORYKickboxing.us" tvg-name="Glory Kickboxing" tvg-logo="https://cdn.iptvboss.pro/logos/USA/GLORYKickboxing.us.png" group-title="SPORTS | Fight Club 🥊",Glory Kickboxing
+http://snaptv.lol:80/Hannibal/Hannibal123/947443
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="Fight Network" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FightNetwork.us.png" group-title="SPORTS | Fight Club 🥊",Fight Network
+http://snaptv.lol:80/Hannibal/Hannibal123/947442
+#EXTINF:-1 tvg-id="FITE247.us" tvg-name="FITE 24/7" tvg-logo="https://cdn.iptvboss.pro/logos/USA/FiteTV.png" group-title="SPORTS | Fight Club 🥊",FITE 24/7
+http://snaptv.lol:80/Hannibal/Hannibal123/947441
+
+
 
 ============================================================================================================================================================
 // Collected by @DenTV menampilkan playlist >>> LIVE EVENT VIDIO
