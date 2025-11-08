@@ -3648,6 +3648,64 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Sport/B
 // Collected by @DenTV menampilkan playlist >>> SPORTS VIP 1
 ============================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="SPORTS | Vip 1",ASTRO BADMINTONᴴᴰ
+https://zozotv.xyz:443/live/faizal1998/zoz161/155.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVooopM.jpg" group-title="SPORTS | Vip 1",ASTRO ARENA ᴴᴰ
+https://zozotv.xyz:443/live/faizal1998/zoz161/154.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOaanPV.jpg" group-title="SPORTS | Vip 1",ASTRO ARENA 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTArena2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GpZxtSR.jpg" group-title="SPORTS | Vip 1",ASTRO FOOTBALL ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTFutball.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="SPORTS | Vip 1",ASTRO GRANDSTAND ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTVLCOPT:http-referrer=https://www.vidembed.re/
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTGreand.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="SPORTS | Vip 1",ASTRO PREMIER LEAGUE 1 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="SPORTS | Vip 1",ASTRO PREMIER LEAGUE 2 ᴴᴰ
+http://tvking.xyz:8080/natashazam/7292722/8549
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ievPTzO.jpg" group-title="SPORTS | Vip 1",ASTRO CRICKET ᴴᴰ
+http://tv.cloudcdn.me/live.ts?channelId=26034&uid=3453&deviceMac=00:1A:79:01:04:AC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxeYwsn.jpg" group-title="SPORTS | Vip 1",SONY TEN 1 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8Sn4SU.jpg" group-title="SPORTS | Vip 1",SONY TEN 2 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8y41CC.jpg" group-title="SPORTS | Vip 1",SONY TEN 3 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P4UHRj.jpg" group-title="SPORTS | Vip 1",SONY TEN 4 ᴴᴰ
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FPe9fhB.jpg" group-title="SPORTS | Vip 1",SONY TEN 5 ᴴᴰ
+https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUmQkL5.jpg" group-title="SPORTS | Vip 1",TNT Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3syDfk.jpg" group-title="SPORTS | Vip 1",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCVx6Xn.jpg" group-title="SPORTS | Vip 1",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFke1fA.jpg" group-title="SPORTS | Vip 1",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
+
 #EXTINF:-1  tvg-id="GBBD1100008YW" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="SPORTS | Vip 1", FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="SPORTS | Vip 1", FIFA+ 
