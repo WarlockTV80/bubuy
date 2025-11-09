@@ -6,7 +6,8 @@
 ============================================================================================================================================================
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾", Citra
-https://smt.858.qzz.io/Smart.php?id=AAcitra
+##https://smt.858.qzz.io/Smart.php?id=AAcitra
+https://raw.githubusercontent.com/B-inalm3u-Custom/AstroMy/B-inal22/AstroCitra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Aura
 https://smt.858.qzz.io/Smart.php?id=Aura
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="VIP | ASTRO MALAYSIA🇲🇾",Rania
