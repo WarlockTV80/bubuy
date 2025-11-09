@@ -4986,9 +4986,9 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
 
 #EXTGRP: EVENT | Liga Inggris
 #EXTINF:-1  tvg-name="Astro Premier League" tvg-id="Astro.Premier.League.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | Liga Inggris" radio="false", EPL 1
-https://a1xs.vip/1100030
+http://snaptv.lol:80/Hannibal/Hannibal123/341726
 #EXTINF:-1  tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | Liga Inggris" radio="false", EPL 2
-https://a1xs.vip/1100031
+http://snaptv.lol:80/Hannibal/Hannibal123/341725
 #EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | Liga Inggris" radio="false",EPL 3
 http://snaptv.lol:80/Hannibal/Hannibal123/341740
 #EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="EVENT | Liga Inggris" radio="false",EPL 4
